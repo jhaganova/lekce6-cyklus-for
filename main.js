@@ -6,7 +6,7 @@
 console.log('První příklad - vzestupná řada 0 - 10');
 
 
-for (let i=1; i<=10; i=i+1) {
+for (let i=0; i<=10; i=i+1) {
     console.log(i);
 }
 
@@ -19,7 +19,7 @@ console.log('Druhý příklad - rozdíl mezi <= a <');
 
 //TADY NAPIS CYKLUS
 
-for (let i=1; i<11; i=i+1) {
+for (let i=0; i<11; i=i+1) {
     console.log(i);
 }
 
