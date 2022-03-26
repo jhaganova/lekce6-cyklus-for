@@ -50,5 +50,5 @@ console.log('Třetí příklad - sestupná řada 10 - 0');
 x=10 
 while (x>=0) {
     console.log(x);
-    x=x-1;
+    x--;
 }
